@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.placeholder-left-2::placeholder {
+    margin-left: 10px; /* Puedes ajustar el valor según tus necesidades */
+  }
